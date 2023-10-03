@@ -44,6 +44,5 @@ img {
 
 .btn-att:hover {
   transform: translateY(-5px);
-  /* Move o botão 5 pixels para cima */
   background-color: #2980b9;
 }
